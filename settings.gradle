@@ -1,0 +1,4 @@
+include ':app'
+include ':openCVLibrary330'
+include ':openCVSamplecolorblobdetection'
+include ':openCVSamplefacedetection'
